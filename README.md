@@ -6,12 +6,12 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
--[Features](#features)
--[Technologies Used](#technologies-used)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
--[Contributing](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
