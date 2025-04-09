@@ -16,11 +16,11 @@
 
 ## Project Overview
 
-Customer churn prediction is a critical task for businesses, especially in the telecommunications industry. This project aims to predict whether a customer will churn based on various features such as tenure, monthly charges, and service usage. The model is built using a Logistic Regression and is deployed as a web application using Streamlit. By leveraging machine learning, this project provides insights that can help companies improve customer retention strategies.
+Customer churn prediction is a critical task for businesses, especially in the telecommunications industry. This project aims to predict whether a customer will churn based on various features such as tenure, monthly charges, and service usage.Logistic Regression Model is trained and saved for predicting and is deployed as a web application using Streamlit. By leveraging machine learning, this project provides insights that can help companies improve customer retention strategies.
 
 ## Features
 
-- **Predictive Modeling**: Utilizes a Random Forest classifier to predict customer churn.
+- **Predictive Modeling**: Utilizes a Logistic Regression Model to predict customer churn.
 - **User -Friendly Interface**: A web application built with Streamlit for easy interaction.
 - **Data Preprocessing**: Handles missing values and categorical variables to prepare data for modeling.
 - **Real-Time Predictions**: Users can input customer data and receive immediate predictions on churn likelihood.
@@ -57,7 +57,7 @@ To set up the project, follow these steps:
 ## Usage
 
 1. **Train the Model**:
-   - Open the Jupyter Notebook for model training. You can find it in the `notebooks` directory, typically named `model_training.ipynb`.
+   - Open the Jupyter Notebook for model training. You can find it in the `notebook` directory, typically named `customer_churn.ipynb`.
    - Run all the cells in the notebook to preprocess the data, train the model, and save the model and preprocessor. Make sure to execute the cells in order to ensure that all dependencies are loaded correctly.
 
 2. **Run the Streamlit Application**:
