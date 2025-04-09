@@ -24,7 +24,6 @@ Customer churn prediction is a critical task for businesses, especially in the t
 - **User -Friendly Interface**: A web application built with Streamlit for easy interaction.
 - **Data Preprocessing**: Handles missing values and categorical variables to prepare data for modeling.
 - **Real-Time Predictions**: Users can input customer data and receive immediate predictions on churn likelihood.
-- **Visualization**: Provides insights into customer behavior and churn patterns (if implemented).
 
 ## Technologies Used
 
