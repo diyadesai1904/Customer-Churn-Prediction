@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-Customer churn prediction is a critical task for businesses, especially in the telecommunications industry. This project aims to predict whether a customer will churn based on various features such as tenure, monthly charges, and service usage. The model is built using a Random Forest classifier and is deployed as a web application using Streamlit. By leveraging machine learning, this project provides insights that can help companies improve customer retention strategies.
+Customer churn prediction is a critical task for businesses, especially in the telecommunications industry. This project aims to predict whether a customer will churn based on various features such as tenure, monthly charges, and service usage. The model is built using a Logistic Regression and is deployed as a web application using Streamlit. By leveraging machine learning, this project provides insights that can help companies improve customer retention strategies.
 
 ## Features
 
