@@ -51,7 +51,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+   git clone https://github.com/diyadesai1904/Customer-Churn-Prediction.git
    cd Customer-Churn-Prediction
 
 ## Usage
