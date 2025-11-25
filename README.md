@@ -1,7 +1,5 @@
 # Customer Churn Prediction
 
-![Customer Churn Prediction](https://img.shields.io/badge/Project-Customer%20Churn%20Prediction-brightgreen)
-
 
 ## Table of Contents
 
